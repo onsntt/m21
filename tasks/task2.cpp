@@ -99,6 +99,7 @@ struct town
 int main() {
 
 room r1;
+houseFloor::
 
 
 
